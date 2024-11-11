@@ -27,7 +27,7 @@ You can view the deployed project [here](https://sortbyak.netlify.app/).
 ## Installation
 1. Clone the repository:
    ```bash
-  git clone https://github.com/ANTRIKSHKATNA/Sorter.git
+  git clone (forked repo link)
 2. cd sorting-visualizer
 3. npm install
 4. npm start
