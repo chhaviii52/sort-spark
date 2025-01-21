@@ -16,7 +16,7 @@ Sorting Visualizer is an interactive web application built with React that visua
 
 ## Demo
 
-You can view the deployed project [here](https://sortbyak.netlify.app/).
+You can view the deployed project [here](https://sort-spark.netlify.app/).
 
 ## Technologies Used
 
