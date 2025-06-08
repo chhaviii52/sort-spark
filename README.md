@@ -24,10 +24,4 @@ You can view the deployed project [here](https://sort-spark.netlify.app/).
 - **Tailwind CSS** - For responsive and modern styling
 - **JavaScript** - Core logic for sorting algorithms
 
-## Installation
-1. Clone the repository:
-   ```bash
-  git clone (forked repo link)
-2. cd sorting-visualizer
-3. npm install
-4. npm start
+
